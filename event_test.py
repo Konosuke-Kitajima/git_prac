@@ -12,3 +12,4 @@ img = qr.make_image(fill_color="black", back_color="white").convert('L')
 save_path = input("保存する名前を決めてください：　")
 img.save(save_path + '.png')
 img.show()
+##development1 のコメント
