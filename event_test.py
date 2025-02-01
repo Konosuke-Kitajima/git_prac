@@ -1,6 +1,6 @@
 import qrcode
 print("qrcodeを作成します。")
-input_data = input("QRコードにいれるデータを入力してください：")
+input_data = input("QRコードにいれるデータを入力してください!!!：")
 
 qr = qrcode.QRCode(
     
