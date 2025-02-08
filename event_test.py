@@ -13,6 +13,9 @@ save_path = input("保存する名前を決めてください：　")
 img.save(save_path + '.png')
 img.show()
 ##コメント1を追加する
+<<<<<<< HEAD
 ##yuki
 ##yukinosnow
+=======
+>>>>>>> parent of 9d61d2a (yukino)
 
