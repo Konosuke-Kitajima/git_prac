@@ -13,4 +13,6 @@ save_path = input("保存する名前を決めてください：　")
 img.save(save_path + '.png')
 img.show()
 # コメント1を追加
+# コメント2を追加
+
 
